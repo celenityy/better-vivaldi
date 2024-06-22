@@ -4,6 +4,8 @@ My recommendations for the ultimate configuration of the Vivaldi Browser :)
 
 **NOTE:** This project can be found on both [Codeberg](https://codeberg.org/Magnesium1062/better-vivaldi), which will act as the main & preferred way to contribute, and [GitHub](https://github.com/Retold3202/better-vivaldi).
 
+**NOTE:** This is specifically tailored for Brave on Desktop. For Android, see [here](https://codeberg.org/Magnesium1062/better-vivaldi-android).
+
 # General
 
 Startup -> Default Browser -> **Check on Startup** -> ❌
