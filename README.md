@@ -112,7 +112,7 @@ Google Services -> **DNS to Help Resolve Navigation Errors** -> ❌
 
 Google Services -> **Form Autofill Assist** -> ❌
 
-Google Extensions -> **Meet (was Hangouts)** -> ❌ *(This feature gives Google domains special access that other sites can't use... https://x.com/lcasdev/status/1810696257137959018, also seems useless nowadays, tested screen sharing & video calling and seems to work without issue in most cases)*
+Google Extensions -> **Meet (was Hangouts)** -> ❌ *([This feature gives Google domains special access that other sites can't use](https://x.com/lcasdev/status/1810696257137959018)... also seems useless nowadays, tested screen sharing & video calling and seems to work without issue in most cases)*
 
 Search -> **Suggestions in Address Field** -> ❌
 
