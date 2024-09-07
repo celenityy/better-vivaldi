@@ -2,9 +2,9 @@
 
 My recommendations for the ultimate configuration of the Vivaldi Browser :)
 
-**NOTE:** This project can be found on both [Codeberg](https://codeberg.org/Magnesium1062/better-vivaldi), which will act as the main & preferred way to contribute, and [GitHub](https://github.com/Retold3202/better-vivaldi).
+**NOTE:** This project can be found on both [Codeberg](https://codeberg.org/celenity/better-vivaldi), which will act as the main & preferred way to contribute, and [GitHub](https://github.com/celenityy/better-vivaldi).
 
-**NOTE:** This is specifically tailored for Brave on Desktop. For Android, see [here](https://codeberg.org/Magnesium1062/better-vivaldi-android).
+**NOTE:** This is specifically tailored for Vivaldi on Desktop. For Android, see [here](https://codeberg.org/celenity/better-vivaldi-android).
 
 # General
 
@@ -270,7 +270,7 @@ I usually also remove the links to `Vivaldi Social` & `Vivaldi's Help Center` fr
 
 * Similarly, [please don't use more than one content blocking extension](https://x.com/gorhill/status/1033706103782170625).
 
-* Use a private, secure, & reputable DNS provider of your choice. I would recommend setting up your own [NextDNS](https://nextdns.io) configuration if you are able to *(See my recommendations for NextDNS [here](https://codeberg.org/Magnesium1062/nextdns-settings))*, otherwise I would recommend [Quad9](https://quad9.net/).
+* Use a private, secure, & reputable DNS provider of your choice. I would recommend setting up your own [NextDNS](https://nextdns.io) configuration if you are able to *(See my recommendations for NextDNS [here](https://codeberg.org/celenity/nextdns-settings))*, otherwise I would recommend [Quad9](https://quad9.net/).
 
 * Use a (reputable) VPN. I would recommend either [Mullvad](https://mullvad.net/) or [ProtonVPN](https://protonvpn.com/).
 
