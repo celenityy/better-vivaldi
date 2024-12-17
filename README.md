@@ -4,7 +4,7 @@ My recommendations for the ultimate configuration of the Vivaldi Browser :)
 
 **NOTE:** This project can be found on both [Codeberg](https://codeberg.org/celenity/better-vivaldi), which will act as the main & preferred way to contribute, and [GitHub](https://github.com/celenityy/better-vivaldi).
 
-**NOTE:** This is specifically tailored for Vivaldi on Desktop. For Android, see [here](https://codeberg.org/celenity/better-vivaldi-android).
+**NOTE:** This is specifically tailored to Vivaldi on Desktop. For Android, see [here](https://codeberg.org/celenity/better-vivaldi-android).
 
 # General
 
@@ -100,7 +100,7 @@ Quick Command Options -> **Open Links in New Tab** -> ✅
 
 # Privacy and Security
 
-Tracking Prevention -> **Block Ads on Abusive Sites** -> ❌ *(Use [uBlock Origin](https://github.com/gorhill/uBlock) instead, see recommended configuration [here](https://codeberg.org/Magnesium1062/ublock-origin-settings))*
+Tracking Prevention -> **Block Ads on Abusive Sites** -> ❌ *(Use [uBlock Origin](https://github.com/gorhill/uBlock) instead, see recommended configuration [here](https://codeberg.org/celenity/ublock-origin-settings))*
 
 Tracking Prevention -> **Block Hyperlink Audit Tracking** -> ✅
 
@@ -134,7 +134,7 @@ Crash Reporting -> **Allow Vivaldi to Send Automatic Crash Reports** -> ❌
 
 Apple Events -> **Allow Javascript from Apple Events** -> ❌
 
-Tracker and Ad Blocking -> **Blocking Level** -> `No Blocking` *(Use [uBlock Origin](https://github.com/gorhill/uBlock) instead, see recommended configuration [here](https://codeberg.org/Magnesium1062/ublock-origin-settings))*
+Tracker and Ad Blocking -> **Blocking Level** -> `No Blocking` *(Use [uBlock Origin](https://github.com/gorhill/uBlock) instead, see recommended configuration [here](https://codeberg.org/celenity/ublock-origin-settings))*
 
 Tracker and Ad Blocking -> Manage Sources *(This section is only applicable if you do use the built-in content blocking for whatever reason even though not recommended)*:
 
@@ -174,7 +174,7 @@ Website Permissions -> Global Website Permissions:
 
 * **Popups** -> `Block`
 
-* **Intrusive Ads** -> `Allow` *(Use [uBlock Origin](https://github.com/gorhill/uBlock) instead, see recommended configuration [here](https://codeberg.org/Magnesium1062/ublock-origin-settings))*
+* **Intrusive Ads** -> `Allow` *(Use [uBlock Origin](https://github.com/gorhill/uBlock) instead, see recommended configuration [here](https://codeberg.org/celenity/ublock-origin-settings))*
 
 * **Bluetooth Devices** -> `Block`
 
@@ -228,7 +228,7 @@ Webpages -> **Show Selected Text Translate Button** -> ✅
 
 Prefetch -> **Prefetch Resources** -> ❌
 
-Plugins -> **Enable Widevine Plugin** -> ❌ - https://www.eff.org/deeplinks/2017/10/drms-dead-canary-how-we-just-lost-web-what-we-learned-it-and-what-we-need-do-next
+Plugins -> **Enable Widevine Plugin** -> ❌ - [https://www.eff.org/deeplinks/2017/10/drms-dead-canary-how-we-just-lost-web-what-we-learned-it-and-what-we-need-do-next](https://www.eff.org/deeplinks/2017/10/drms-dead-canary-how-we-just-lost-web-what-we-learned-it-and-what-we-need-do-next)
 
 # Network
 
@@ -272,6 +272,6 @@ I usually also remove the links to `Vivaldi Social` & `Vivaldi's Help Center` fr
 
 * Use a private, secure, & reputable DNS provider of your choice. I would recommend setting up your own [NextDNS](https://nextdns.io) configuration if you are able to *(See my recommendations for NextDNS [here](https://codeberg.org/celenity/nextdns-settings))*, otherwise I would recommend [Quad9](https://quad9.net/).
 
-* Use a (reputable) VPN. I would recommend either [Mullvad](https://mullvad.net/) or [ProtonVPN](https://protonvpn.com/).
+* Use a (reputable) anti-virus if possible. On Windows, you can use the built-in [Microsoft Defender Antivirus](https://wikipedia.org/wiki/Microsoft_Defender_Antivirus), on macOS, you can stick to the built-in [XProtect](https://support.apple.com/guide/security/protecting-against-malware-sec469d47bd8/web), and on Linux, you can use [ClamAV](https://www.clamav.net/).
 
-* Use a (reputable) anti-virus if possible. On Windows, you can use the built-in [Microsoft Defender Antivirus](https://en.wikipedia.org/wiki/Microsoft_Defender_Antivirus), on macOS, you can stick to the built-in [XProtect](https://support.apple.com/guide/security/protecting-against-malware-sec469d47bd8/web), and on Linux, you can use [ClamAV](https://www.clamav.net/).
+* Use a (reputable) VPN. I would generally recommend either [Mullvad](https://mullvad.net/), [IVPN](https://www.ivpn.net/), or [ProtonVPN](https://protonvpn.com/).
